@@ -10,3 +10,35 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background: rgb(255, 241, 244);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(196, 140, 149);
+}
+
+li {
+    border: solid 1px gray;
+    background: rgb(251, 215, 233);
+    width: 250px;
+    list-style-type: none;
+    color: black;
+}
+
+.box {
+    width: 300px;
+}
+
+
+.task {
+    width: 300px;
+}
+
+
+input {
+    background: rgb(251, 215, 233);
+    width: 288px;
+}
+
+.delete {
+    background-color: rgb(223, 173, 225);
+}
